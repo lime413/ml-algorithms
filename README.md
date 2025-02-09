@@ -1,7 +1,4 @@
-Homework.
-
-Discipline - 'Machine Learning'.
-
-Spring-summer 2024. 2nd semester, 3th year.
-
-Teacher - Pershin I.A.
+Machine learning algorithms:
+linear classifier
+decision tree, gradient boosting, random forest
+K nearest neighbours
